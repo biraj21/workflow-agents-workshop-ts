@@ -27,3 +27,5 @@ projects:
                   property: connectionString
               - key: NODE_ENV
                 value: production
+              - key: OPENAI_API_KEY
+                sync: false
